@@ -3,7 +3,7 @@ import streamlit as st
 import openai
 
 # Set up OpenAI API credentials
-openai.api_key = 'YOUR_OPENAI_API_KEY'
+openai.api_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 # Streamlit app title and description
 st.title("Chatbot with GPT-3")
